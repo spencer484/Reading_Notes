@@ -14,7 +14,7 @@ We also begin using constructor functions. I have always hated constructor funti
 ----
 ### Tables
 
-Tables are pretty staight forward. I have never had too much of a issue with them. For the most part you declare your <table> and then you have table rows <tr> followed by table data <td>. You can get fancy with spanning columns and rows as well adding footers and spacing but this is a little more rare.
+Tables are pretty staight forward. I have never had too much of a issue with them. For the most part you declare your "<table>" and then you have table rows "<tr>" followed by table data "<td>". You can get fancy with spanning columns and rows as well adding footers and spacing but this is a little more rare.
   
 ---- 
 ### Functions, Methods, and Objects
