@@ -18,3 +18,5 @@ Tables are pretty staight forward. I have never had too much of a issue with the
   
 ---- 
 ### Functions, Methods, and Objects
+
+There is a lot going on in this reading. Mainly about objects and building functions. We are starting to get into a lot of different wayt to build out objects and functions. One of the big new lessons is the constructor sytax. This will build out a model for the object and then we can use the word NEW to create a new variable of what the object should be. Pass that into the constructor and then reuse the constructor function over and over. This will save time and be more efficient. This chapter also covered the .Math function which hopefully I can redo on the Salmon Cookie assignment to get that working better.
