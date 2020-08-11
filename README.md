@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
@@ -14,7 +14,7 @@ HTML Images; CSS Color & Text
 
 JS Object Literals; The DOM
 
-HTML Tables; JS Constructor Functions
+[HTML Tables; JS Constructor Functions](https://github.com/spencer484/reading-notes/blob/master/Reading_7.md) 
 
 More CSS Layout
 
