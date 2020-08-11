@@ -10,3 +10,5 @@ Domain Modeling would have helped for the begining of Salmon Cookies. This is th
 3.The object is stored in a variable for later use.
 
 We also begin using constructor functions. I have always hated constructor funtions and will be happy to get past these haha.
+
+----
