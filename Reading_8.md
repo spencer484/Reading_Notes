@@ -13,4 +13,4 @@ The chapter goes over the positioning of elements
 * Absolute Positioning
 * Fixed Positioning
 
-Pretty much there are a lot of different layouts.
+Pretty much there are a lot of different layouts. We deal with page sizes, fixed layouts, liquid layouts.
