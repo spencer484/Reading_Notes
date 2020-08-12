@@ -18,5 +18,5 @@ This is the reading notes for the Code Fellows 201
 
 7. [HTML Tables; JS Constructor Functions](https://github.com/spencer484/reading-notes/blob/master/Reading_7.md) 
 
-8. More CSS Layout
+8. [More CSS Layout]
 
