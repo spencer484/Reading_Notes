@@ -1,6 +1,6 @@
 ### Reading 10
 
-####### Debugging
+###### Debugging
 
 * When debugging your JS, always confirm that you have no syntax errors first. Your code will not run until those syntax errors are fixed.
 * When hunting syntax errors, typically the actual problem is before the line that errored. Work backwards from there.
