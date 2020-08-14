@@ -22,3 +22,5 @@ This is the reading notes for the Code Fellows 201
 
 9. [Forms and Events](https://github.com/spencer484/reading-notes/blob/master/Reading_9.md)
 
+10. [Debugging](https://github.com/spencer484/reading-notes/blob/master/Reading_10.md)
+
