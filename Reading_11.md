@@ -1,6 +1,6 @@
 ### Reading 10
 
-####### Images
+###### Images
 
 You can control the size of an image using the width and height properties in CSS, jyust like you can any other box. Images can be aligned both horizontally and vertically using CSS.
 
@@ -9,7 +9,7 @@ You can control the size of an image using the width and height properties in CS
 * You can create image rollover effects by moving the background position of an image.
 * To reduce the number of images the browser has to load, so create image sprites.
 
-####### Practical Infomation
+###### Practical Infomation
 
 * Search engine optimization
   In every page of a website there are seven key places where you keywords can appear in order to improve its findability.
