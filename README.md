@@ -26,3 +26,5 @@ This is the reading notes for the Code Fellows 201
 
 11. [Images/Practical Information](https://github.com/spencer484/reading-notes/edit/master/Reading_11.md)
 
+12. [Chart.js, Canvas](https://github.com/spencer484/reading-notes/blob/master/Reading_12.md)
+
