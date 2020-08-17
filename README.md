@@ -24,3 +24,5 @@ This is the reading notes for the Code Fellows 201
 
 10. [Debugging](https://github.com/spencer484/reading-notes/blob/master/Reading_10.md)
 
+11. [Images/Practical Information](https://github.com/spencer484/reading-notes/edit/master/Reading_11.md)
+
