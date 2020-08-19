@@ -4,7 +4,7 @@ Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
 
 
-1.Create a Reading Notes Repo
+1. Create a Reading Notes Repo
 
 2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
