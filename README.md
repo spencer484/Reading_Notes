@@ -28,3 +28,5 @@ This is the reading notes for the Code Fellows 201
 
 12. [Chart.js, Canvas](https://github.com/spencer484/reading-notes/blob/master/Reading_12.md)
 
+13. [Local Storage](https://github.com/spencer484/reading-notes/blob/master/Reading_13.md)
+
