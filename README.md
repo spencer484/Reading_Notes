@@ -30,3 +30,5 @@ This is the reading notes for the Code Fellows 201
 
 13. [Local Storage](https://github.com/spencer484/reading-notes/blob/master/Reading_13.md)
 
+14a. [CSS Transforms, Transitions, and Animations](https://github.com/spencer484/Reading_Notes/blob/master/Reading_14a.md)
+
