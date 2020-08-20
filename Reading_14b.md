@@ -3,7 +3,7 @@
 ###### What Google Learned From Its Quest to Build the Perfect Team
 
 
-This is a interesting into because I feel like I could relate in a lot of ways with Rozovsky. I have worked hard over the years to put myself out there more. This can be hard in group settings becuase like the author noted, a lot of times groups naturally form into leaders and other followers. Which I think can be just fine. But there has to be a balance of being "heard". Everyone needs to take in others perspectives even if they are not the leader. Sounds like her case-competition group was the best case scenario.
+This is a interesting into because I feel like I could relate in a lot of ways with Rozovsky. I have worked hard over the years to put myself out there more. This can be hard in group settings because like the author noted, a lot of times groups naturally form into leaders and other followers. Which I think can be just fine. But there has to be a balance of being "heard". Everyone needs to take in others perspectives even if they are not the leader. Sounds like her case-competition group was the best case scenario.
 
 Now we are talking about employee productivity. They say that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems. I believe this to be very true. I've seen it many times myself being stuck on a issue with my code and then I get a fresh pair of eyes on it and within 2 minutes someone has found the issue. Building this into a strong team is a huge asset.
 
