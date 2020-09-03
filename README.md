@@ -3,7 +3,7 @@
 Code Fellows 301 Reading Notes
 This is the reading notes for the Code Fellows 301
 
-1. Reading Notes
+1. SMACSS and Responsive Web Design
 
 
 Code 201 Reading Notes
