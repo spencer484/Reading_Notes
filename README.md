@@ -1,6 +1,6 @@
 # Reading Notes
 
-### Code Fellows 301 Reading Notes
+Code Fellows 301 Reading Notes
 This is the reading notes for the Code Fellows 301
 
 1. Reading Notes
