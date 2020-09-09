@@ -7,6 +7,8 @@ This is the reading notes for the Code Fellows 301
 
 2. [jQuery, Events, and The Dom](https://github.com/spencer484/Reading_Notes/blob/master/301.%2002.md)
 
+3. [Flexbox and Templating](https://github.com/spencer484/Reading_Notes/blob/master/301.%2003.md)
+
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
