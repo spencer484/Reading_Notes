@@ -11,6 +11,8 @@ This is the reading notes for the Code Fellows 301
 
 4. [Responsive Web Design and Regular Expressions](https://github.com/spencer484/Reading_Notes/blob/master/301.%2004.md)
 
+5. [Heroku Deployment](https://github.com/spencer484/Reading_Notes/blob/master/301.%2005.md)
+
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
