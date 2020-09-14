@@ -13,6 +13,10 @@ This is the reading notes for the Code Fellows 301
 
 5. [Heroku Deployment](https://github.com/spencer484/Reading_Notes/blob/master/301.%2005.md)
 
+6.
+
+7.[APIs Continued..](https://github.com/spencer484/Reading_Notes/blob/master/301.%2007.md)
+
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
