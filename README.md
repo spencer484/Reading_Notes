@@ -17,6 +17,10 @@ This is the reading notes for the Code Fellows 301
 
 7. [APIs Continued..](https://github.com/spencer484/Reading_Notes/blob/master/301.%2007.md)
 
+8. [SQL](https://github.com/spencer484/Reading_Notes/blob/master/301.%2008.md)
+
+9. [Refactoring](https://github.com/spencer484/Reading_Notes/blob/master/301.%2009.md)
+
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
