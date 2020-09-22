@@ -25,6 +25,8 @@ This is the reading notes for the Code Fellows 301
 
 11. [ESJ](https://github.com/spencer484/Reading_Notes/blob/master/301%20.11.md)
 
+12. [EJS Partials](https://github.com/spencer484/Reading_Notes/blob/master/301.%2012.md)
+
 
 Code 201 Reading Notes
 This is the reading notes for the Code Fellows 201
