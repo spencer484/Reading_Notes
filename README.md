@@ -29,7 +29,7 @@ This is the reading notes for the Code Fellows 301
 
 13. [Update/Delete](https://github.com/spencer484/Reading_Notes/blob/master/301.%2013.md)
 
-14a. [DB Normalization](https://github.com/spencer484/Reading_Notes/blob/master/301.%2014a.md)
+14. [DB Normalization](https://github.com/spencer484/Reading_Notes/blob/master/301.%2014a.md)
 
 
 Code 201 Reading Notes
