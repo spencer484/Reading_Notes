@@ -6,7 +6,7 @@
 
 
 
-Code Fellows 301 Reading Notes
+### Code 301 - Intermediate Software Development
 This is the reading notes for the Code Fellows 301
 
 1. [MACSS and Responsive Web Design](https://github.com/spencer484/Reading_Notes/blob/master/301:%2001.md)
@@ -38,7 +38,7 @@ This is the reading notes for the Code Fellows 301
 14. [DB Normalization](https://github.com/spencer484/Reading_Notes/blob/master/301.%2014a.md)
 
 
-Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 This is the reading notes for the Code Fellows 201
 
 
