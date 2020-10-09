@@ -29,7 +29,31 @@ Read the problem completely twice
 Honestly I don't like this article as much. I get what the author is trying to say but I disagree with Tim Ferris that laziness is being too busy. I feel like I take a lot on my plate as a husband, brother, friend, and someone everyone knows they can count on at any time for just about anything. I think the biggest thing is about how you manage your time. Now I am writting this I am thinking that's kind of what they are talking about. Managing time.
 
 ###### How to think like a programmer - lessons in problem solving
+This was the best article in my opinion. It just simplified things and I felt like I could relate to it all well
 
+**1. Understand**
+
+Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).
+
+**2. Plan**
+
+Don’t dive right into solving without a plan (and somehow hope you can muddle your way through). Plan your solution!
+
+**3. Divide**
+
+Break it into sub-problems. These sub-problems are much easier to solve.Then, solve each sub-problem one by one. Begin with the simplest. Simplest means you know the answer (or are closer to that answer).
+
+**4. Stuck?**
+
+* Debug: Go step by step through your solution trying to find where you went wrong. Programmers call this debugging (in fact, this is all a debugger does).
+
+* Reassess: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
+
+* Research: Ahh, good ol’ Google. You read that right. No matter what problem you have, someone has probably solved it. Find that person/ solution. In fact, do this even if you solved the problem! (You can learn a lot from other people’s solutions).
+
+**5. Practice**
+
+Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with <insert concept here>.”
 
 ###### 5 Whys
 
