@@ -37,15 +37,29 @@ Honestly I don't like this article as much. I get what the author is trying to s
 
 1. Assemble a Team
 
+Gather together people who are familiar with the specifics of the problem, and with the process that you're trying to fix. Include someone to act as a facilitator , who can keep the team focused on identifying effective counter-measures.
+
 2. Define the Problem
+
+If you can, observe the problem in action. Discuss it with your team and write a brief, clear problem statement that you all agree on.
 
 3. Ask the First "Why?"
 
+Ask your team why the problem is occurring. Asking "Why?" sounds simple, but answering it requires serious thought. Search for answers that are grounded in fact: they must be accounts of things that have actually happened, not guesses at what might have happened.
+
 4. Ask "Why?" Four More Times
+
+Try to move quickly from one question to the next, so that you have the full picture before you jump to any conclusions.
 
 5. Know When to Stop
 
+You'll know that you've revealed the root cause of the problem when asking "why" produces no more useful responses, and you can go no further. An appropriate counter-measure or process change should then become evident.
+
 6. Address the Root Cause(s)
 
+Now that you've identified at least one root cause, you need to discuss and agree on the counter-measures that will prevent the problem from recurring.
+
 7. Monitor Your Measures
+
+Keep a close watch on how effectively your counter-measures eliminate or minimize the initial problem. You may need to amend them, or replace them entirely. If this happens, it's a good idea to repeat the 5 Whys process to ensure that you've identified the correct root cause.
 
