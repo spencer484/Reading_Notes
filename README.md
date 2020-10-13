@@ -8,7 +8,7 @@
 
 2. [Classes, Inheritance, Functional Programming](https://github.com/spencer484/Reading_Notes/blob/master/401.02.md)
 
-
+3. [Data Modeling & NoSQL Databases](https://github.com/spencer484/Reading_Notes/blob/master/401.03.md)
 
 ### Code 301 - Intermediate Software Development
 This is the reading notes for the Code Fellows 301
