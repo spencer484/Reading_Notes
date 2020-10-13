@@ -4,6 +4,10 @@
 
 [Engineering Topics](https://github.com/spencer484/Reading_Notes/blob/master/Engineering%20Topics.md)
 
+1. 
+
+2. [Classes, Inheritance, Functional Programming](https://github.com/spencer484/Reading_Notes/blob/master/401.02.md)
+
 
 
 ### Code 301 - Intermediate Software Development
