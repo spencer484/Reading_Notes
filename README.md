@@ -10,6 +10,14 @@
 
 3. [Data Modeling & NoSQL Databases](https://github.com/spencer484/Reading_Notes/blob/master/401.03.md)
 
+4. [Advanced Mongo/Mongoose](https://github.com/spencer484/Reading_Notes/blob/master/401.04.md)
+
+5. [Linked Lists](https://github.com/spencer484/Reading_Notes/blob/master/401.05.md)
+
+6. [HTTP and REST](https://github.com/spencer484/Reading_Notes/blob/master/401.06.md)
+
+7. [Express](https://github.com/spencer484/Reading_Notes/blob/master/401.07.md)
+
 ### Code 301 - Intermediate Software Development
 This is the reading notes for the Code Fellows 301
 
