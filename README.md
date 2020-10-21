@@ -20,7 +20,7 @@
 
 8. [Express Routing & Connected API](https://github.com/spencer484/Reading_Notes/blob/master/401.08.md)
 
-9. [API Server]
+9. [API Server](https://github.com/spencer484/Reading_Notes/blob/master/401.09.md)
 
 ### Code 301 - Intermediate Software Development
 This is the reading notes for the Code Fellows 301
